@@ -1,1 +1,17 @@
 /* write your override styles here */
+html{
+    background-color: white;
+    text-align: center;
+    margin: 1;
+    padding: 1;
+    font-family: 'Courier New';
+}
+header{
+    background-color: gray;
+    font-family: 'Franklin Gothic Medium';
+    font-size: large;
+}
+h2{
+    font-size: medium;
+    font-family: Verdana;
+}
